@@ -1,0 +1,13 @@
+.nav-container {
+  padding: 1em 0;
+}
+
+a {
+  color: #161616;
+  margin-right: 1em;
+  text-decoration: none;
+}
+
+.active-link {
+  text-decoration: underline;
+}
